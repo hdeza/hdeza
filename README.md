@@ -35,9 +35,9 @@
 </p>
 
 ## 📈 Stats
-[![Hdeza GitHub stats](https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hdeza GitHub stats](https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeza&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeza&layout=compact&theme=radical)]
 
 
 ## 🛠️ My Projects
