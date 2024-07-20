@@ -1,6 +1,7 @@
-# Hi, I'm Armando Hernández 👋
-
-Welcome to my GitHub profile! I'm a Developer passionate about Web Development. Here you'll find my projects, contributions, and some interesting facts about me.
+<div align="center">
+<h1 align="center">Hi, I'm Armando Hernández 👋</h1>
+  <p>Welcome to my GitHub profile! I'm a Developer passionate about Web Development. Here you'll find my projects, contributions, and some interesting facts about me.</p>
+</div>
 
 ## 🌟 About Me
 
