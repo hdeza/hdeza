@@ -35,10 +35,10 @@
 </p>
 
 ## 📈 Stats
-<div align="center">
-    [![Hdeza GitHub stats](https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeza&layout=compact&theme=radical)](https://github.com/your-username)
-</div>
+[![Hdeza GitHub stats](https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdeza&layout=compact&theme=radical)](https://github.com/your-username)
+
 
 ## 🛠️ My Projects
 
