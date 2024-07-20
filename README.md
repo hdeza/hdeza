@@ -37,7 +37,8 @@
 ## 📈 Stats
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true" alt="Hdeza GitHub stats">
-  
+</div>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdeza&layout=compact&theme=github_dark&show_icons=true" alt="Hdeza GitHub Lenguages">
 </div>
 
