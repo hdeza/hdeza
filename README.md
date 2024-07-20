@@ -36,7 +36,7 @@
 
 ## 📈 Stats
 <div align=center>
-  [![Hdeza GitHub stats](https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true)
+  <img src="[![Hdeza GitHub stats](https://github-readme-stats.vercel.app/api?username=hdeza&theme=github_dark&show_icons=true)">
 </div>
 
 
