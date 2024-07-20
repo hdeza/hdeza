@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a Developer passionate about Web Development. 
   - Student of Electronic Engineering and Systems Engineering.
 ### 🚀 **Experience**: 
   - MissionTic 2021 Crew Member.
-### 💼 **Current Role**: Freelancer.
+### 💼 **Current Role**: 
+- Freelancer.
 ### 🛠️ Technologies & Tools
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26&style=flat)
 - ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6&style=flat)
