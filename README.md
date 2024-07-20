@@ -1,5 +1,9 @@
 <div style="font-family: Arial, sans-serif; color: #333; margin: 0 auto; max-width: 800px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
 
+    
+</div>
+
+<div>
     <h2 style="text-align: center; color: #2c3e50;">🌟 About Me</h2>
 
     <h3 style="color: #2980b9;">📚 <strong>Education</strong></h3>
