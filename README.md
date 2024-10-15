@@ -28,11 +28,6 @@
     <img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss&logoColor=38B2AC&style=flat" alt="TailwindCSS">
 </p>
 
-### 🌱 **Currently Learning**
-<p align="center">
-    <img src="https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB&style=flat" alt="React">
-    <img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss&logoColor=38B2AC&style=flat" alt="TailwindCSS">
-</p>
 
 ## 📈 Stats
 <div align=center>
