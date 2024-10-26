@@ -6,7 +6,7 @@
 ## 🌟 About Me
 
 ### 📚 **Education**
-- Student of Electronic Engineering and Systems Engineering.
+- Student of Systems Engineering.
 
 ### 🚀 **Experience**
 - MissionTic 2021 Crew Member.
