@@ -44,6 +44,7 @@
 
 Here are some of my recent projects:
 
+- **[ClimaTour](https://github.com/hdeza/cimatour-col.git)**: ClimaTour is a web application designed to help travelers plan trips based on real-time weather data. The application allows users to view current weather conditions, explore historical climate trends, and forecast future weather in various destinations. With ClimaTour, travelers can make informed decisions by accessing location-specific weather details, UV index, air quality data, and more to ensure an optimal travel experience
 - **[Teacher Resume Data Management](https://github.com/hdeza/Teacher-Resume-Data-Management.git)**: This is a desktop application designed for managing teacher resume data for an institution. The application allows adding new teachers, searching and filtering existing teachers, downloading CVs, and viewing each teacher's detailed profile.
 - **[Task Manager](https://github.com/hdeza/Task-Manager.git)**: This repository contains a web application for task management, developed with React and Firebase. The application allows users to create, read, update, and delete tasks, offering an intuitive and functional interface.
 
