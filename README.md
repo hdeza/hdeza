@@ -12,7 +12,7 @@
 - MissionTic 2021 Crew Member.
 
 ### 💼 **Current Role**
-- Student.
+- Software or Application Developer.
 
 ### 🛠️ **Technologies & Tools**
 <p align="center">
