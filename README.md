@@ -9,24 +9,28 @@
 - Student of Systems Engineering.
 
 ### 🚀 **Experience**
+- 2024: Developed a comprehensive software solution for San Francisco Javier School, including database design, interface design, and complete application development.
 - MissionTic 2021 Crew Member.
 
 ### 💼 **Current Role**
-- Software or Application Developer.
+- Frontend Developer.
 
 ### 🛠️ **Technologies & Tools**
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26&style=flat" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6&style=flat" alt="CSS3">
-    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F7DF1E&style=flat" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-SQL-000?&logo=sqlite&logoColor=003B57&style=flat" alt="SQL">
-    <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=4169E1&style=flat" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396&style=flat" alt="Java">
-    <img src="https://img.shields.io/badge/-C++-000?&logo=cplusplus&logoColor=00599C&style=flat" alt="C++">
-    <img src="https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E&style=flat" alt="Figma">
-    <img src="https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB&style=flat" alt="React">
+    <img src="https://img.shields.io/badge/-SCSS-000?&logo=sass&logoColor=CC6699&style=flat" alt="SCSS">
     <img src="https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss&logoColor=38B2AC&style=flat" alt="TailwindCSS">
+    <img src="https://img.shields.io/badge/-BEM-000?&logo=undefined&logoColor=undefined&style=flat" alt="BEM">
+    <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F7DF1E&style=flat" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript&logoColor=007ACC&style=flat" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB&style=flat" alt="React">
+    <img src="https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031&style=flat" alt="Angular">
+    <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=4169E1&style=flat" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E&style=flat" alt="Figma">
+    <img src="https://img.shields.io/badge/-Framer%20Motion-000?&logo=framer&logoColor=F24E1E&style=flat" alt="Framer Motion">
 </p>
+
 
 
 ## 📈 Stats
