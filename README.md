@@ -27,6 +27,8 @@
     <img src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=F7DF1E&style=flat" alt="JavaScript">
     <img src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript&logoColor=007ACC&style=flat" alt="TypeScript">
     <img src="https://img.shields.io/badge/-React-000?&logo=react&logoColor=61DAFB&style=flat" alt="React">
+    <img src="https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=000000&style=flat" alt="Next.js">
+    <img src="https://img.shields.io/badge/-GSAP-000?&logo=gsap&logoColor=88cc44&style=flat" alt="GSAP">
     <img src="https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031&style=flat" alt="Angular">
     <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=4169E1&style=flat" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E&style=flat" alt="Figma">
