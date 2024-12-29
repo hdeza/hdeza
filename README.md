@@ -9,11 +9,13 @@
 - Student of Systems Engineering.
 
 ### 🚀 **Experience**
-- 2024: Developed a comprehensive software solution for San Francisco Javier School, including database design, interface design, and complete application development.
-- MissionTic 2021 Crew Member.
+- **2024**: Developed a comprehensive software solution for San Francisco Javier School, including database design, interface design, and complete application development.
+- **2024**: Created **[Dolphine Solutions](https://dolphinesolutions.com)**, a Single Page Application (SPA) showcasing the services of the company. My role involved both the design and implementation of the website, ensuring a seamless user experience and responsive design.
+- **2024**: Developed **[ClimaTourism](https://climatourism.tech/)**, a web application designed to help travelers plan trips based on real-time weather data. I was involved in both the design and development of the platform, which provides users with weather insights, climate trends, and travel forecasts.
+- **MissionTic 2021**: Crew Member.
 
 ### 💼 **Current Role**
-- Frontend Developer.
+- Freelance Frontend Developer.
 
 ### 🛠️ **Technologies & Tools**
 <p align="center">
@@ -48,7 +50,8 @@
 
 Here are some of my recent projects:
 
-- **[ClimaTour](https://github.com/hdeza/cimatour-col.git)**: ClimaTour is a web application designed to help travelers plan trips based on real-time weather data. The application allows users to view current weather conditions, explore historical climate trends, and forecast future weather in various destinations. With ClimaTour, travelers can make informed decisions by accessing location-specific weather details, UV index, air quality data, and more to ensure an optimal travel experience
+- **[My Startup - Dolphine Solutions](https://dolphinesolutions.com)**: Visit my personal website to learn more about my startup, Dolphin Solutions. We specialize in software development, offering web and mobile app services, including IoT and AI solutions.
+- **[ClimaTourism](https://climatourism.tech/)**: ClimaTour is a web application designed to help travelers plan trips based on real-time weather data. The application allows users to view current weather conditions, explore historical climate trends, and forecast future weather in various destinations. With ClimaTour, travelers can make informed decisions by accessing location-specific weather details, UV index, air quality data, and more to ensure an optimal travel experience
 - **[Teacher Resume Data Management](https://github.com/hdeza/Teacher-Resume-Data-Management.git)**: This is a desktop application designed for managing teacher resume data for an institution. The application allows adding new teachers, searching and filtering existing teachers, downloading CVs, and viewing each teacher's detailed profile.
 - **[Task Manager](https://github.com/hdeza/Task-Manager.git)**: This repository contains a web application for task management, developed with React and Firebase. The application allows users to create, read, update, and delete tasks, offering an intuitive and functional interface.
 
